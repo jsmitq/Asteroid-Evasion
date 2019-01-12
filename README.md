@@ -1,6 +1,6 @@
 # Asteroid Evasion
 
-[![YouTube Video](http://www.github.com/jsmitq/Asteroid-Evasion/Assets/Textures/Splash.png)](https://youtu.be/rYAaTlxPl64)
+[![YouTube Video](https://github.com/jsmitq/Asteroid-Evasion/blob/master/Assets/Textures/Splash.png?raw=true)](https://youtu.be/rYAaTlxPl64)
 
 Developed using C# and Unity
 
