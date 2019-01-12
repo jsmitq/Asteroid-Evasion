@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c9b11e5cbdc9afd4cb1e4deac6e310c0
+timeCreated: 1483906528
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - m_rolloverSound: {fileID: 8300000, guid: c9539d5b7e5775a4f9ff5693fa9d4639, type: 3}
+  - m_clickSound: {fileID: 8300000, guid: 409230843eb49f44e8334217cd0b3f92, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
